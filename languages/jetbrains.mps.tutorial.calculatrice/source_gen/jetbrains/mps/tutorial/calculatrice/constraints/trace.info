@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="ConstraintsAspectDescriptor.java">
+      <unit at="13,0,29,0" name="jetbrains.mps.tutorial.calculatrice.constraints.ConstraintsAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:b07fe2a6-e2d8-46ad-9828-95d4a5954114(jetbrains.mps.tutorial.calculatrice.constraints)/6234533224305121369">
+    <file name="InputFieldReference_Constraints.java">
+      <node id="6234533224305121369" at="18,44,19,43" concept="6" />
+      <node id="6234533224305121418" at="27,56,28,208" concept="4" />
+      <node id="6234533224305121369" at="30,6,31,131" concept="3" />
+      <node id="6234533224305121418" at="31,131,32,42" concept="1" />
+      <node id="6234533224305121369" at="32,42,33,22" concept="4" />
+      <node id="6234533224305121369" at="37,0,38,0" concept="5" trace="InputFieldReference$VK" />
+      <node id="6234533224305121369" at="38,0,39,0" concept="5" trace="InputField$KB" />
+      <node id="6234533224305121369" at="42,0,43,0" concept="5" trace="field$pHFz" />
+      <node id="6234533224305121369" at="18,0,21,0" concept="0" trace="InputFieldReference_Constraints#()V" />
+      <node id="6234533224305121418" at="25,0,30,0" concept="2" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="6234533224305121418" at="23,90,30,6" concept="3" />
+      <node id="6234533224305121369" at="22,0,35,0" concept="2" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="6234533224305121369" at="18,44,19,43" />
+      <scope id="6234533224305121418" at="27,56,28,208" />
+      <scope id="6234533224305121369" at="18,0,21,0" />
+      <scope id="6234533224305121418" at="25,0,30,0" />
+      <scope id="6234533224305121369" at="23,90,33,22">
+        <var name="d0" id="6234533224305121418" />
+        <var name="references" id="6234533224305121369" />
+      </scope>
+      <scope id="6234533224305121369" at="22,0,35,0" />
+      <unit id="6234533224305121369" at="41,0,44,0" name="jetbrains.mps.tutorial.calculatrice.constraints.InputFieldReference_Constraints$LINKS" />
+      <unit id="6234533224305121369" at="36,0,40,0" name="jetbrains.mps.tutorial.calculatrice.constraints.InputFieldReference_Constraints$CONCEPTS" />
+      <unit id="6234533224305121418" at="24,48,30,5" name="jetbrains.mps.tutorial.calculatrice.constraints.InputFieldReference_Constraints$1" />
+      <unit id="6234533224305121369" at="17,0,45,0" name="jetbrains.mps.tutorial.calculatrice.constraints.InputFieldReference_Constraints" />
+    </file>
+  </root>
+</debug-info>
+
